@@ -53,12 +53,7 @@ class ProfileFragment : Fragment() {
             if (response.isSuccessful) {
                 val data = response.body()!!
 
-                withContext(Dispatchers.Main){
-                    lastname.text = data.last_name
-                    firstname.text = data.first_name
-                    age.text = data.age.toString()
-                    school.text = data.School
-                }
+
             }
         }
     }

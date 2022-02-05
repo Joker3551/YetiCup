@@ -3,7 +3,7 @@
     <item
         android:id="@+id/profile"
         android:icon="@drawable/ic_profile"
-        android:title="@string/profile"
+        android:title="@string/profile_edit"
         />
 
     <item
@@ -11,7 +11,7 @@
         android:icon="@drawable/ic_baseline_event_available_24"
         android:title="@string/news" />
     <item
-        android:id="@+id/teams"
-        android:icon="@drawable/ic_baseline_event_available_24"
-        android:title="@string/teams" />
+        android:id="@+id/lupa"
+        android:icon="@drawable/ic_lupa"
+        android:title="@string/lupa" />
 </menu>

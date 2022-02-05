@@ -9,7 +9,14 @@
     <string name="go_in1">Администратор</string>
     <string name="go_in2">Участник</string>
     <string name="profile">Профиль участника</string>
+    <string name="profile_edit">Оценка пользователя</string>
     <string name="news">Лента новостей</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lupa">QR код</string>
+    <string name="teams">Команды</string>
+    <string-array name="role">
+        <item>Лидер команды</item>
+        <item>Голова команды</item>
+        <item>Умелые ручки</item>
+        <item>Мастер рассчётов</item>
+    </string-array>
 </resources>
